@@ -2,6 +2,7 @@
     "name": "reverse-geocoders",
     "version": "0.0.1",
     "description": "Unified interface for multiple reverse-geocoding services. Currently supports Google, MapQuest Open, and MapQuest Nominatim.",
+    "homepage": "https://github.com/doublemap/reverse-geocoders",
     "keywords": [
         "gis",
         "geo",
