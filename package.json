@@ -1,0 +1,23 @@
+{
+    "name": "reverse-geocoders",
+    "version": "0.0.1",
+    "description": "Unified interface for multiple reverse-geocoding services. Currently supports Google, MapQuest Open, and MapQuest Nominatim.",
+    "keywords": [
+        "gis",
+        "geo",
+        "geocoding",
+        "geocoder",
+        "mapquest",
+        "openstreetmap",
+        "nominatim"
+    ],
+    "dependencies": {
+        "q": "0.9.x",
+        "request": ">=2.0.0",
+        "sprintf": "0.1.x",
+        "underscore": "1.x"
+    },
+    "license": "Apache-2.0",
+    "author": "Eric Jiang <eric@doublemap.com> (http://www.doublemap.com/)",
+    "main": "./reverse-geocoders.js"
+}
