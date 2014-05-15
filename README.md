@@ -49,3 +49,6 @@ following properties:
 * postal_code
 * country
 * formatted_address
+
+The result may be missing one or more of these properties if no data was found,
+most commonly the street number.
